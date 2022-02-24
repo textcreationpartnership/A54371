@@ -1,0 +1,522 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christianity restored to its primitive purity, or the mercenary church reform'd being an abstract of a sermon, preached at Oak-wood Chappel in Surry, and at the Abbey Church in Bath June the 27th. 1699. Shewing that all true pastors must preach freely. By Jos. Perkins.</title>
+            <author>Perkins, Joseph, b. 1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54371</idno>
+            <idno type="STC">Wing P1546</idno>
+            <idno type="STC">ESTC R221439</idno>
+            <idno type="EEBO-CITATION">99832746</idno>
+            <idno type="PROQUEST">99832746</idno>
+            <idno type="VID">37220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37220)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christianity restored to its primitive purity, or the mercenary church reform'd being an abstract of a sermon, preached at Oak-wood Chappel in Surry, and at the Abbey Church in Bath June the 27th. 1699. Shewing that all true pastors must preach freely. By Jos. Perkins.</title>
+                  <author>Perkins, Joseph, b. 1658.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37220:1"/>
+            <pb facs="tcp:37220:1"/>
+            <p>Chriſtianity Reſtored To Its Primitive PURITY, Or the Mercenary <hi>Church Reform'd;</hi> Being an Abſtract of a SERMON, PREACHED At <hi>Oak-wood</hi> Chappel in <hi>Surry,</hi> and at the <hi>Abbey</hi> Church in <hi>Bath June</hi> the 27th. 1699.</p>
+            <p>Shewing that all true Paſtors muſt Preach <hi>Freely.</hi>
+            </p>
+            <p>By <hi>Joſ. Perkins.</hi>
+            </p>
+            <q>The Preiſts Preach for Hire, and the Prophets divine for reward, and yet they ſay, is not the Lord among us?
+<bibl>
+                  <hi>Mica. 3.11.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for the Author, MDCXCIX.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:37220:2"/>
+            <pb facs="tcp:37220:2"/>
+            <head>The PREFACE TO THE READER.</head>
+            <p>THe Church of <hi>England</hi> for about Twenty Years has Compell'd me to Preach <hi>Freely,</hi> or for little or nothing, and now ſome of them blame me for what they themſelves have taught me. Muſt I ſtill be a conſtant Practitioner of this faculty of Preaching
+<hi>Freely,</hi> and never be<g ref="char:EOLhyphen"/>come <hi>Proffeſſor</hi> of the ſame? I have been com<g ref="char:EOLhyphen"/>pell'd to Preach for nothing many Years, and now by long Practice I have gotten an <hi>habit</hi> of it: And what I then did by conſtraint, I now do voluntarily: and therefore I hope, 'tis an accep<g ref="char:EOLhyphen"/>table ſervice unto God, as being a freewill offer<g ref="char:EOLhyphen"/>ing. Here my Adverſaries urge, that I was not compell'd to Preach for nothing: for no man compell'd me to Preach at all: And many have adviſed me to throw off my Gown, and take up ſome other imployment.</p>
+            <p>I anſwer, that tho' no <hi>Man,</hi> yet Gods com<g ref="char:EOLhyphen"/>mands, and my own duty and Conſcience com<g ref="char:EOLhyphen"/>pell me to Preach, (for woe be to me if I Preach
+<pb facs="tcp:37220:3"/>not the Goſpel) But ye by denying me any re<g ref="char:EOLhyphen"/>ward, tho' you have not ſimply compell'd me to Preach, yet have you compell'd me to Preach for
+<hi>Nothing.</hi> For being in this Calling, I muſt there<g ref="char:EOLhyphen"/>in abide with Chriſt, tho' you deny me a diſciples reward, and thereby compell me to get my live<g ref="char:EOLhyphen"/>ing by making <hi>Verſes,</hi> as St. <hi>Paul</hi> did by makeing Tents. You upbraid me, that 'its not fit to make Poetry a Trade to get ones liveing by.</p>
+            <p>I anſwer tis not fit to make <hi>Preaching</hi> a Trade to get ones living by neither: But of the two I had rather be a mercenary Poet, than a merce<g ref="char:EOLhyphen"/>nary Preacher. But what reaſon is this, to muzle up the mouth of the Oxe, that is, not ſuffer me to <hi>live</hi> by the Altar, and yet endeavour to hin<g ref="char:EOLhyphen"/>der me from provideing for me and my Children ſome other way? Ye have caſt me out into the Sea of this World without Cork or Bladder on purpoſe to Drown me; But thanks be to God, I can now Swim without either, that is, Preach with<g ref="char:EOLhyphen"/>out any reward to ſupport me: And now being thus Skill'd in the Art of Preaching <hi>Freely,</hi> I muſt teach my Brethren to do ſo too.</p>
+            <p>
+               <hi>When thou art converted, ſtrengthen thy Brethren.</hi>
+            </p>
+            <closer>
+               <signed>Jos. Perkins.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:37220:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Acts, 20. v. 33.</hi>
+                  </bibl> I have coveted no mans Silver or Gold or Apparel.</q>
+            </epigraph>
+            <head>That all true Paſtors ought to Preach <hi>Freely,</hi> not for Hire or reward.</head>
+            <p>WE have Chriſt's expreſs command for it <hi>Mat.</hi> 10.
+<hi>v.</hi> 8. <hi>[Freely ye have received, Freely give]</hi> which command the Apoſtles obſerved by Preaching the Goſpel <hi>Freely;</hi> without reſpect to any <hi>Reward.</hi> By which means Chriſt and his Apoſtles were very <hi>Poor,</hi> and lived by Almes. Yet theſe poor men planted Chriſtianity in the World, which Rich Church-men by their Covetouſ<g ref="char:EOLhyphen"/>neſs have almoſt rooted out again.</p>
+            <p>Chriſt the Eternal wiſdom of the Father knew well enough that his Religion could not be planted or propaga<g ref="char:EOLhyphen"/>ted, if there lay any Suſpicion of <hi>Covetouſneſs</hi> on the Preach<g ref="char:EOLhyphen"/>ers thereof. It was the ſincerity of the Apoſtles that ad<g ref="char:EOLhyphen"/>ded authority to their Words; and therefore St.
+<hi>Paul</hi> does ſo often clear himſelf from the Suſpicion of
+<hi>Covetouſneſs,</hi> [<hi>I have coveted no mans ſilver, or gold or apparel.</hi> Act. 20.33. <hi>Neither at any time vſed we a Cloak of</hi> Covetouſneſs, <hi>God is witneſs.</hi> 1 Theſ. 2.5. He calls God to witneſs, which <pb n="2" facs="tcp:37220:4"/>ſurely he would not do (ſaith Bp.
+<hi>Sanderſon</hi>) <hi>niſi dignus</hi> vindice <hi>nodus,</hi> if it did not highly concerne him to ſtand clear in the eye of the World in that behalf. <hi>He wrought with his own hands for his living that he might not be</hi> burthen<g ref="char:EOLhyphen"/>ſome <hi>to thoſe, to whom he</hi> Freely <hi>Preached the Goſpel.</hi> (2. Theſ. 3.8.) but that they might know he aimed
+<hi>onely</hi> (as every other true Paſtor does) at the benefit of their
+<hi>Souls,</hi> and nothing at all at his own <hi>worldly ends:</hi> for thus he ſaith, I ſeek not <hi>yours</hi> but <hi>you:</hi> not ſeeking my own pro<g ref="char:EOLhyphen"/>fit, but the profit of many that they may be ſaved. And again whether thoſe that graſp together <hi>Pluralities</hi> of liv<g ref="char:EOLhyphen"/>ings and ſeek to get into the <hi>richeſt</hi> Parſonages, are of St. <hi>Pauls</hi> mind or no, I leave the World to Judge. But if they are not of St. <hi>Pauls</hi> mind, they are not worthy to be Chriſts Meſſengers. The <hi>Servant</hi> is not greater than his <hi>Lord,</hi> nor the <hi>Diſciple</hi> greater than his
+<hi>Maſter. Chriſt</hi> had not where to lay his <hi>Head,</hi> lived by
+<hi>Almes,</hi> went about on <hi>Foot,</hi> and had not a <hi>piece</hi> of
+<hi>Money</hi> to pay <hi>Caeſar</hi> his due, but what he got by working a Miracle. Many of our <hi>Plu<g ref="char:EOLhyphen"/>raliſts, &amp;c.</hi> Live in ſtately
+<hi>Pallaces,</hi> ride in glorious <hi>Chari<g ref="char:EOLhyphen"/>ots,</hi> and have of the Churches Revenues ſome 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſome 1000
+<abbr>
+                  <hi>l.</hi>
+               </abbr> ſome many Thouſands a year. And all this they have as a <hi>Reward</hi> for the good ſervice they do in the Church. This is their <hi>Hire: And Chriſt himſelf ſaith the</hi> Labourer <hi>is worthy of his</hi> Hire. Very right.</p>
+            <p>But what is meant by <hi>Hire</hi> there? You may ſee,
+<hi>Mat.</hi> 10, v. 10. where it is explained thus <hi>[the Work-man is worthy of his Meat.]</hi> and this is the <hi>Hire</hi> Chriſt allowed his Apoſtles: and this was reward enough to ſatisfie an <hi>Apoſtle,</hi> becauſe they had the <hi>grace</hi> of God, which was <hi>ſufficient</hi> for them: But without <hi>that,</hi> 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> a year is not enough to ſatiate the deſires of ſome of our Preachers, <hi>Food</hi> and <hi>Raiment</hi> is an Apoſtles <hi>Hire:</hi> If our Preachers
+<pb n="3" facs="tcp:37220:4"/>(by what names or Titles ſoever dignified or diſtinguiſh<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi>) can do the work better then
+<hi>Chriſt</hi> and his <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> did, then let them in Gods name expect a better re<g ref="char:EOLhyphen"/>ward than they had. I preſume, St. <hi>Peter</hi> deſerv'd as good Preferment as any Bp. in Chriſtendom, yet ſaith he,
+<hi>Silver</hi> and <hi>Gold</hi> have I none: And I believe, none he deſired, but was content with what his Maſter allowed him, <hi>viz.</hi> his <hi>Food a ſlender reward:</hi> And yet as <hi>ſlender</hi> as this
+<hi>reward</hi> was, the Apoſtles did not do the work for the <hi>ſake</hi> of this <hi>reward</hi> neither. For no man can be ſo fooliſh as to think that the holy Apoſtles went up and down to Preach for <hi>Victuals,</hi> and to get their <hi>Living</hi> (as many amongſt us do get into the Prieſts Office that they may eat a piece of <hi>Bread</hi>) this Mercenary Trade of Preaching for <hi>Victualls</hi> had been beneath an <hi>Apoſtolick</hi> Spirit. No: they did it <hi>Freely</hi> without regard to ſo much as the Bread they Eat. If they had been ſuch mean <hi>Hirelings</hi> as this, they had been altogether unworthy to be called <hi>Apoſtles.</hi> This
+<hi>Hire</hi> came by the <hi>by,</hi> and was not at all in their
+<hi>intentions;</hi> ac<g ref="char:EOLhyphen"/>cording to that ſaying of our Lord, <hi>Firſt ſeek the kingdom of God and his righteouſneſs, and all theſe things</hi> (Food <hi>and</hi> Rai<g ref="char:EOLhyphen"/>ment) <hi>ſhall be added unto you.</hi> Nay ſo far were they from ſeeking to get their <hi>Livings</hi> by the exerciſe of their <hi>Office,</hi> that they loſt their very <hi>Lives</hi> for the ſame. And Chriſt propoſeth to his followers not
+<hi>preferment,</hi> but <hi>Perſecutions: Behold I ſend you forth as ſheep in the midſt of</hi> Wolves.</p>
+            <p>I do not here condemne all that take <hi>Mony</hi> of their
+<hi>Con<g ref="char:EOLhyphen"/>gregations.</hi> It is one thing to <hi>take</hi> their rewards, and another thing to Preach and Pray for the <hi>ſake</hi> of the reward. St.
+<hi>Paul</hi> himſelfe ſometimes <hi>took</hi> their Charity, when he knew he might ſafely do it without danger of being thought <hi>covetous:</hi> Yet was he always very careful, as to keep his Conſcience clear from the
+<hi>Evil,</hi> ſo to keep his credit from all appearance of it. When we have ſo far wrought our <pb n="4" facs="tcp:37220:5"/>ſelves into the good opinion of our People that they do not ſuſpect us guilty of Covetouſneſs. Then may we ſafely take their Charitable relief for the ſupply of our neceſſitys. But when the honour of God and the ſafety of Souls ly at ſtake, and the takeing of money breeds a ſtrong ſuſpicion in men that we are
+<hi>Covetous,</hi> and that <hi>Preaching</hi> and <hi>Praying</hi> is but Prieſt <hi>Craft,</hi> and a means only to <hi>enrich</hi> our ſelves by, we are then bound in Con<g ref="char:EOLhyphen"/>ſcience to be very ſpareing in takeing their Almes, that ſo we may refrain from all <hi>appearance</hi> of evil. If we will do the work of God <hi>ſincerely,</hi> we muſt overlook all
+<hi>Rewards,</hi> and ſuffer no mixture of <hi>ſelfe</hi> Love to mingle with and corrupt our pure <hi>intentions. That ſo all men may ſee our good works, and glorifie our Father which is in Heaven.</hi>
+            </p>
+            <p>I have not written theſs things to hinder the true
+<hi>Pa<g ref="char:EOLhyphen"/>ſtor</hi> from his <hi>Reward;</hi> For the <hi>Labourer</hi> is worthy of his Hire. But then it muſt be the <hi>Labourer,</hi> and not the
+<hi>Loyterer.</hi> He that does not <hi>Work,</hi> neither ſhould he
+<hi>Eat.</hi> The greedy Pluraliſt then that does not the <hi>Work,</hi> but keeps <hi>Journey-men Curates</hi> to <hi>Work</hi> for him, does not de<g ref="char:EOLhyphen"/>ſerve ſo much as the Bread he Eates. And yet com<g ref="char:EOLhyphen"/>monly, he that works
+<hi>leaſt,</hi> devours the <hi>moſt.</hi> This is the common Practice in the preſent Church, to make Preaching and Praying a mercenary Trade for Gain, and to keep <hi>Journey-men Curates.</hi> That which was Ordain<g ref="char:EOLhyphen"/>ed of Chriſt as a <hi>meanes</hi> to draw mens Minds off from the <hi>World,</hi> Is it ſelf become (through the cunning of Sa<g ref="char:EOLhyphen"/>tan) a mercenary Trade to
+<hi>gain</hi> the World? Preach<g ref="char:EOLhyphen"/>ing and Praying are perverted from their right
+<hi>End,</hi> not to gain <hi>Souls,</hi> but to gain the <hi>World.</hi> The Diſciples did <hi>forſake</hi> the World to follow Chriſt: Theſe follow Chriſt for the <hi>ſake</hi> of the World, or rather <hi>forſake</hi> him like <hi>De<g ref="char:EOLhyphen"/>mas,</hi> to embrace the preſent World. Chriſt made his Apoſtles <hi>Fiſhers</hi> of Men: Satan has made theſe gree<g ref="char:EOLhyphen"/>dy
+<pb n="5" facs="tcp:37220:5"/>Pluraliſts <hi>Fiſhers</hi> of Money. If theſe Men were as good Chriſtians as the <hi>Apoſtles</hi> they would be content with as ſmall an Allowance as they were: But as far ſhort as they come of them in
+<hi>Goodneſs,</hi> ſo far would they ſurpaſs them in
+<hi>Greatneſs.</hi> Nay were they as good Men as the <hi>Heathen</hi> Poet, they would be content with Food and Raiment, (as the Apoſtle alſo exhorteth)
+<q>
+                  <l>— Menſura tamen quae</l>
+                  <l>Sufficiat cenſûs ſiquis me conſulat, edam:</l>
+                  <l>In quantum ſit is at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fames &amp; frigora poſcunt.</l>
+               </q> Juvenal.</p>
+            <p>He that aims at the wrong <hi>End,</hi> muſt needs <hi>err</hi> all the Way, and he that aimes at <hi>Honour</hi> or <hi>Profit</hi> by the Miniſtry, aims at the wrong <hi>End. He that deſireth the</hi> Office
+<hi>of a Biſhop deſireth a</hi> good work, ſays the Apoſtle, he ſpeaks only of the <hi>Office</hi> and the Work, not the <hi>Re<g ref="char:EOLhyphen"/>ward.</hi> Some indeed do deſire the Office and the Work, but as a <hi>Means</hi> only to attain a further <hi>End,</hi> namely to get Riches. But this is a baſe Deſire and far unworthy an Apoſtolick Spirit. And that this is the aim of many in the preſent Church of England, may appear by this, that when they have attained the <hi>End</hi> they aimed at, <hi>viz. Preferment,</hi> they then make but little uſe of the means, Preaching Praying <hi>&amp;c.</hi> according to the old Maxim: <hi>Acquiſito fine ceſſant media.</hi> Juſt like that <hi>Cardinal,</hi> who to make ſhew of Humility and Poverty of ſpirit, was wont to ſpread his Table with a <hi>Fiſhing nett;</hi> but when he came to be <hi>Pope</hi> he preſently left off the <hi>Fiſhing nett,</hi> and being asked why he left off St. <hi>Peter's nett,</hi> he readily anſwered, he had already caught the <hi>Fiſh,</hi> meaning the
+<hi>Popedome.</hi> And many of our <hi>Church men</hi> do the like at preſent, when they have gotten the thing they aimed at, <hi>Preferment,</hi> they uſually neglect the <hi>Office</hi> and the <hi>Work:</hi> Perhaps employ ſome underling <hi>Curate</hi> to do the <pb n="6" facs="tcp:37220:6"/>work for them, allowing him ſome petty Wages for the ſame, reſerving the greateſt Share to themſelves for doing little or nothing: Whereas the
+<hi>Labourer</hi> and not the <hi>Loy<g ref="char:EOLhyphen"/>terer</hi> is worthy of his Hire. But what reaſon is this, that one man ſhould do the Work, and another reap the Pro<g ref="char:EOLhyphen"/>fit? To argue the Caſe a little with you, whoſoever you are that employ
+<hi>Journey men Curates.</hi> If the Curate does the <hi>Work,</hi> for which the Parſonage is given as a <hi>Reward,</hi> why ſhould not he have all the
+<hi>Reward</hi> that does all the <hi>Work?</hi> But we ſuppoſe that the
+<hi>Curate</hi> is not ſo good a Preacher as the <hi>Rector.</hi> I anſwer, you Plu<g ref="char:EOLhyphen"/>raliſts are the more to blame for employing ſuch Per<g ref="char:EOLhyphen"/>ſons in a Buſineſs of ſo high a concern, as the ſaving of Souls, that is not ſo well qualified for the Work as your ſelves are. If he be worthy of the
+<hi>Office,</hi> I think he is worthier of the <hi>Reward,</hi> than he that does nothing at all, or but ſeldom Preaches. If thoſe idle Pluraliſts that imploy Curates, would advance the beſt men they could to their Cures, it were the more tolerable. But alaſs! it concerns the Pluraliſt for his own Credit to provide a Journey man Curate that does the Work worſe than himſelf. They always aim to imploy greater <hi>Dunces</hi> than themſelves, or <hi>like</hi> themſelves, according to the Proverb,</p>
+            <q>Similis ſimili, &amp; ſimiles habent labra lactucas.</q>
+            <p>They conſider that it would be a Shame for them to be out done by the Curate; and therefore ſome of them have taken occaſion, to diſmiſs their Curates for Preach<g ref="char:EOLhyphen"/>ing <hi>without Book,</hi> whatever other Pretence they might have. They are jealouſe of a witty Curate, leaſt he ſhould carry the <hi>Glory</hi> and the <hi>Praiſe,</hi> of which they are no leſs <hi>Ambitious,</hi> than <hi>Covetous</hi> of the Gain. Thus
+<hi>Ju<g ref="char:EOLhyphen"/>venal</hi> could not endure a <hi>learned Wife, [ut ſolaeciſmum liceat feciſſe Marito]</hi> and the <hi>Indian Queen</hi> would admit
+<pb n="7" facs="tcp:37220:6"/>no <hi>beautiful</hi> Women into her Court and Service, leaſt <hi>Joan</hi> ſhould be prefer'd before my <hi>Lady.</hi> Now then ſuppoſing we are to Preach and Pray for <hi>Hire</hi> or <hi>Reward,</hi> (which I do deny) What encouragement is here for <hi>Vertue</hi> and
+<hi>Learning</hi> in the preſent Church of England, when better Scholars are rejected, and worſe admitted into Curacies? Yet thus it is: <hi>Learned</hi> and <hi>Eloquent</hi> men do uſually place <hi>dull ſorry</hi> Curates to ſup<g ref="char:EOLhyphen"/>ply their Places, that ſo the Pariſhioners may the more admire their
+<hi>Doctor,</hi> who Preaches tho' but <hi>ſeldom,</hi> yet abundantly
+<hi>better</hi> than the <hi>Curate.</hi> They know the Maxim very well
+<hi>Contraria inter ſe poſita magis eluceſcunt.</hi>
+            </p>
+            <p>Therefore that the People may have a better Opinion of their
+<hi>Doctor</hi> than of the <hi>Curate,</hi> it concerns the Doctor to provide a <hi>Curate</hi> that Preaches <hi>worſe</hi> than himſelf. All
+<hi>Arti<g ref="char:EOLhyphen"/>ficers,</hi> as <hi>Shoemakers, Taylors</hi> &amp;c. readily employ ſuch <hi>Jour<g ref="char:EOLhyphen"/>ney men</hi> as are moſt ingenious in their <hi>Craft:</hi> But alas! 'tis quite otherwiſe in <hi>Prieſt-craft:</hi> There the Pluraliſt in the matter of Mens Souls, employ ſuch Journey men Curates as are always <hi>worſe</hi> than themſelves. Here I could inſtance in ſeveral Particulars, but I ſpare their Names, one of whom has thruſt in a
+<hi>Thorn</hi> into his Cure, to ſtop the <hi>Gap,</hi> a ſor<g ref="char:EOLhyphen"/>ry Fence, God knows, to keep the Devil out of his Pa<g ref="char:EOLhyphen"/>riſh. And if <hi>Learned</hi> Men employ ſuch ſorry Curates, What can we expect from ſuch as have but little <hi>Learning?</hi> And yet that there are many <hi>Dunces</hi> advan<g ref="char:EOLhyphen"/>ced to <hi>Dignities</hi> and Pluralities, is an undeniable and palpable Truth. It is obvious to every underſtanding Man's Knowledge and Obſervation, That by
+<hi>Bribery, Symony, Affinity, Conſanguinity,</hi> by <hi>Favour, Friendſhip</hi> and baſe <hi>Partiality,</hi> very indifferent
+<hi>Scholars,</hi> and worſe Preachers, are hoyſted up into eminent. Places in the pre<g ref="char:EOLhyphen"/>ſent Church, whilſt others that have more Honeſty and better Learning, are in a low and mean Condition.</p>
+            <pb n="8" facs="tcp:37220:7"/>
+            <p>And thus it comes to paſs ſometimes. A Gentleman has a Preſentation of a Living: He breeds up one of his Sons at School; his Son proves a <hi>Dunce,</hi> yet for his Fees gets a Degree and Orders, and then is Preſented, Inſtituted and Inducted into the Living, which another deſerves ten times better. Another Marries the Patrons Daughter or Kinſwoman, or crackt Chambermaid, and ſo climbs up into the Fold by S—k Simony: Ve<g ref="char:EOLhyphen"/>ry few or none come into Preferment for their Deſerv<g ref="char:EOLhyphen"/>ings; and then they employ Curates like themſelves; and then the Church of God is like to be well ſerved.</p>
+            <p>To prevent theſe and many other Abuſes, I wiſh that
+<hi>nothing</hi> were ſettled upon the Church by <hi>Law,</hi> but that every Pariſhioner might give the Miniſter what he pleaſed; and that the Miniſters would think that Chriſt's Command to the Apoſtle, concern'd them too, Freely <hi>ye have received,</hi> Freely <hi>give:</hi> Were it thus, none but Religious and Devout Perſons would put themſelves forward into the Miniſtry: But now, <hi>Preferment</hi> be<g ref="char:EOLhyphen"/>ing ſettled upon the Church, he that can <hi>get</hi> it has it, whether he deſerves it or no. The Riches of the Church are a Bait for Covetouſneſs to Bite at; and the more
+<hi>Covetous</hi> and <hi>Ambitious</hi> any Man is, the more forward is he to thruſt himſelf into the Miniſtry, on purpoſe to ſerve his own baſe Ends. For when there is ſtriving for <hi>greater</hi> Livings, and
+<hi>fat</hi> Parſonages, and but little ſeeking for <hi>Poor</hi> ones, any Man may eaſily judge, whether they ſeek the <hi>Flock</hi> or the
+<hi>Fleece,</hi> the Salvation of <hi>Souls</hi> or their own
+<hi>Gain.</hi>
+            </p>
+            <p>It is reported in <hi>Baker's Chronicles,</hi> That the
+<hi>Prior</hi> of a certain <hi>Convent</hi> in <hi>England</hi> being dead, many of the <hi>Monks</hi> made great Intereſt to the King, to get to be
+<hi>Prior:</hi> But the King took notice of one <hi>Poor</hi> Monk who never ſought at all for this Dignity; and asked <pb n="9" facs="tcp:37220:7"/>him, Brother what wilt thou give me to be <hi>Prior?</hi> not one Farthing ſaid the
+<hi>Monk,</hi> for I can ſerve God as well, (and with more eaſe) with what allowance I have already, as if I were a <hi>Prior,</hi> Well then, reply'd the King, I think thou art the fitteſt man to be <hi>Prior,</hi> and thou ſhalt be <hi>Prior.</hi>
+            </p>
+            <p>And certainly that man beſt deſerves to be a
+<hi>Prieſt,</hi> or <hi>Biſhop,</hi> that leaſt deſires the
+<hi>Profit;</hi> and he that deſires it <hi>at all,</hi> deſerves it not
+<hi>at all.</hi> He that makes <hi>Divinity</hi> a Step to raiſe his
+<hi>Fortune</hi> by, is altogether unworthy of that high and honourable
+<hi>Office.</hi> And yet alas! the World is overſpread with theſe
+<hi>Locuſts,</hi> who make Preach<g ref="char:EOLhyphen"/>ing and Praying the ſervile Inſtruments and <hi>Trades</hi> to get Riches by. The <hi>preſent</hi> Church of England, is quite diffe<g ref="char:EOLhyphen"/>rent from the <hi>Chriſtian</hi> Church in the Apoſtles times, when they Preached <hi>Freely,</hi> (as Chriſt commanded them) and their Flocks as <hi>Freely</hi> ſupported their Paſtors, Here was no pulling and halling of Duties, from the Congregation by quarrelſom Suits of
+<hi>Law,</hi> but all of them reſembled God their <hi>Father</hi> in giving
+<hi>Freely</hi> to each other, the Pa<g ref="char:EOLhyphen"/>ſtor his <hi>Spiritual</hi> to his Flock, and they again as <hi>Freely</hi> their <hi>Temporal</hi> to their Paſtor, without the leaſt ſtrife or conſtraint. God grant to us the ſame Spirit, that we may be not only Profeſſors of Chriſtianity, but Chriſtians in<g ref="char:EOLhyphen"/>deed, and make it appear by our Works, that we have not only the ſhew, but the power of Godlyneſs.</p>
+            <p>Now let us conſider the ill <hi>conſequences</hi> and
+<hi>effects</hi> of this mercenary Trade of Preaching for gain. All that do this, are <hi>Hirelings,</hi> and therefore no true <hi>Sheepherds:</hi> And Chriſt tells us, that the Hireling <hi>fleeth</hi> when he ſeeth the
+<hi>Wolfe</hi> coming, becauſe he is but a <hi>Hireling:</hi> and ſo the Wolfe <hi>ſcatters</hi> and <hi>devours</hi> the Sheep, Juſt ſo do all mercenary Preachers, ſeeing the <hi>Wolfe</hi> of Popery or Perſecution com<g ref="char:EOLhyphen"/>ing, preſently fly from their own principals, giving way
+<pb n="10" facs="tcp:37220:8"/>to the <hi>Wolfe.</hi> For what cares the Hireling ſo long as he has his <hi>Hire?</hi> He matters not which <hi>Maſter</hi> he ſerves, <hi>God,</hi> or <hi>Satan.</hi> Whereas he that is content to Preach
+<hi>Freely,</hi> and has no Preferment to <hi>loſe,</hi> has no temptation on him, to make him <hi>tack</hi> about every time the wind Turns, like the
+<hi>Vicar</hi> of <hi>Bray,</hi> but ſtands immovable like a Rock in the midſt of the Waves of this trouble<g ref="char:EOLhyphen"/>ſome World.</p>
+            <p>This mercenary Preaching for gain, hath cauſed a very great decay of Piety and Religion amongſt all men. For men obſerving the minds of their <hi>Teachers</hi> ſet upon this <hi>World,</hi> are apt to believe that there is no <hi>other World,</hi> and that the <hi>Reſurrection,</hi> a
+<hi>future State, Heaven</hi> and <hi>Hell,</hi> are but <hi>Chymera</hi>'s and
+<hi>Fables</hi> invented by Prieſts, as I have heard an <hi>Athieſt</hi> affirm, who told me, One bird in <hi>hand</hi> (mean<g ref="char:EOLhyphen"/>ing the preſent Life) is better than <hi>two</hi> in the buſh, (meaning the Life to come) I am affraid that the Cove<g ref="char:EOLhyphen"/>touſneſs of Church-men Imbracing this preſent World, has moſt powerfully taught <hi>Atheiſm</hi> and <hi>Irreligion,</hi> Their Examples overthrow their Doctrine.</p>
+            <q>Quid verba audio, facta cum video?</q>
+            <p>Tis in vain to Preach againſt <hi>Covetouſneſs,</hi> (which no man that has his mouth ſtopp'd with 2 or 3 Steeples (can well do) if it appear that our very <hi>Preaching</hi> is but a means to gain <hi>Riches,</hi> and an effect of <hi>Covetouſneſs</hi> it ſelf. This Preaching for filthy Lucre has in a great meaſure eva<g ref="char:EOLhyphen"/>cuated, enervated, and made void the Goſpel of Chriſt, ſo that it cannot have that influence upon the Hearts of men as it had in the primitive times, when it was <hi>ſincerely</hi> Preach<g ref="char:EOLhyphen"/>ed, without any <hi>other</hi> deſign ſave the <hi>honour</hi> of God, and the <hi>Salvation</hi> of Souls. And it will never recover its ſtrength and efficacy again, till it be Preached by ſuch Per<g ref="char:EOLhyphen"/>ſons as have indeed renounced the World, and ſhew the <pb n="11" facs="tcp:37220:8"/>ſame heroick and Apoſtolick Spirit, that was in St. <hi>Paul</hi> and the other Apoſtles, who had not an Eye to the <hi>World,</hi> but only to <hi>God</hi> and his <hi>truth.</hi> He that pretends he aims at <hi>both,</hi> the ſaving of Souls, and his own <hi>gain,</hi> ſeems to me as ſtrange a Prodigie as
+<hi>Janus,</hi> having <hi>two Faces</hi> that look <hi>Eaſt</hi> and
+<hi>Weſt</hi> at the ſame time. For who can look at two objects ſo directly oppoſite as <hi>God,</hi> and the <hi>World?</hi> Tis the
+<hi>intention</hi> that has the greateſt force to render an action good or evil. If in our Sermons we aim at <hi>Profit</hi> or <hi>ap<g ref="char:EOLhyphen"/>plauſe,</hi> or
+<hi>any thing</hi> ſave the <hi>glory of God,</hi> and the <hi>benefit</hi> of <hi>Soul's,</hi> then are our affections <hi>inſincere,</hi> and will prove as <hi>unacceptable</hi> to God, as <hi>unprofitable</hi> to men. If thine <hi>Eye</hi> be evil, thy whole <hi>body</hi> is full of darkneſs. If the <hi>inten<g ref="char:EOLhyphen"/>tion</hi> be naught, <hi>all is</hi> naught. They that follow Chriſt, and Preach for the ſake of <hi>gain,</hi> and to grow <hi>Rich</hi> by the Church revenews, are like <hi>Judas,</hi> who followed Chriſt, that he might <hi>get</hi> ſomething by him. The <hi>other</hi> Apoſtles
+<hi>forſook</hi> all to follow Chriſt: but <hi>Judas</hi> followed him for the <hi>ſake</hi> of gain. Firſt he got to be <hi>Purſer,</hi> and to carry the <hi>Poors</hi> bagg, (the Treaſure of the Church) from whence he was wont ſacrilegiouſly to filch and ſteal, and at laſt ſold his maſter outright for ready money. Juſt ſo do all covetous Church men creep into the Church, on purpoſe to inrich themſelves by the Churches revenews, and when they can get nothing any longer by defending the truth, you may obſerve them to fly from the truth, and deny their own Principles. When they are like to come to any loſs for Chriſt's ſake, they will readily betray his truth either by <hi>ſilence</hi> or <hi>contradiction.</hi> But he that Preaches <hi>Freely,</hi> is ſafe from being tempted to be a
+<hi>Turn-coat,</hi> or a <hi>time-ſerver,</hi> or <hi>man-pleaſer.</hi> He that Preaches <hi>Freely</hi> in this ſence, may alſo Preach
+<hi>Freely</hi> in another ſence, that is to ſay, with greater
+<hi>freedom</hi> and <hi>Liberty</hi> of Speech, than the <pb n="12" facs="tcp:37220:9"/>hireling, who is affraid to ſpeak the whole truth for fear of diſpleaſing <hi>men,</hi> and ſo loſing his Hire.</p>
+            <p>Brave and noble was the intention of <hi>Hannah,</hi> in dedica<g ref="char:EOLhyphen"/>ting her young Son <hi>Samuel</hi> to the Lord, not to get his li<g ref="char:EOLhyphen"/>ving by his ſervice at the Altar: <hi>Baſe</hi> and <hi>ignoble</hi> are the intentions of all thoſe parents, who breed up their Sons at Schools and Univerſities, on purpoſe to provide for them in the <hi>World,</hi> and to raiſe their <hi>Fortunes</hi> by the treaſure of the Church, by beſtowing on them ſuch livings as they have in their own gift: by which means thoſe that are far fitter for the Office, are ſhut out.</p>
+            <p>As for <hi>Simony</hi> (falſly ſo called) who knows, not that it is a common practice in the preſent Church? Can it be imagined by any thinking man that a Patrone, who gives a great <hi>ſumme</hi> of
+<hi>money</hi> for the advowſon of a Living, will be ſo ſimple as to give a Preſentation for <hi>nothing.</hi> No: He that <hi>buyes</hi> the Devil (as we ſay in the proverb) muſt <hi>ſell</hi> the Devil too. And then the worſt man muſt have it: For no good man will be guilty of <hi>Simony</hi> and <hi>Perjury</hi> withall, for the ſake of the beſt Living in the world. We all juſtly condemne that <hi>Cardinall</hi> who gave himſelf to the
+<hi>Devil</hi> to be <hi>Pope:</hi> But he is a <hi>worſe</hi> fool that gives his <hi>money</hi> to the <hi>Patrone,</hi> and his <hi>Soul</hi> to the
+<hi>Devil</hi> by <hi>Perjury,</hi> for the ſake of a Parſonage or Vicaridge. And when we obſerve that meer <hi>Ignoramus</hi>'s are in great Livings, and <hi>wiſer</hi> men ſhut out, every one of ſence may well imagin, that not their <hi>vertue,</hi> but their <hi>money,</hi> advanced them to the ſame: and then the Church is like to be ſerved well, when he that ſhould Preach againſt <hi>covetouſneſs, Perjury</hi> and
+<hi>ſimony,</hi> is himſelf a covetous <hi>Perjur'd ſimoniſt,</hi> and de<g ref="char:EOLhyphen"/>ſerves rather to ſtand in a <hi>Pillory</hi> than a <hi>Pulpit.</hi> Alas! 'Tis not the <hi>holy ſpirit</hi> of God calls theſe men to the Mini<g ref="char:EOLhyphen"/>ſtry, but <hi>Covetouſneſs</hi> the root of all evil.</p>
+            <p>Wherefore to avoid all theſe grievous Sins, we muſt
+<pb n="13" facs="tcp:37220:9"/>ſhun Covetouſneſs (for they that will be rich, fall into Temptation) and Preach <hi>Freely,</hi> and when we have ſo done, we muſt ſtill ſay, we are <hi>unprofitable</hi> Servants, we have done what was our <hi>Duty</hi> to doe. They that Preach for <hi>reward,</hi> Chriſt will ſay unto them as he did to the <hi>Pha<g ref="char:EOLhyphen"/>riſes,</hi> they <hi>have</hi> their reward, and <hi>all</hi> the reward they are like to have in this Life. But he that is content with his allowance of <hi>meat</hi> and <hi>livery,</hi> in the mean time, ſhall in the end, when he has done his Days work, receive an unmeaſurable reward; even <hi>Eternal Life.</hi> And as he did the
+<hi>work Freely,</hi> not for the ſake of <hi>reward,</hi> ſo ſhall God
+<hi>Freely</hi> give him a reward, not of <hi>Merit,</hi> but of Grace.</p>
+            <p>I ſhall now anſwer ſome few objections, that may be made, and then conclude.</p>
+            <p n="1">1ſt. They will object, That this Preaching for
+<hi>nothing</hi> will make us <hi>Poor,</hi> and thereby
+<hi>Contemptible.</hi>
+            </p>
+            <p>I anſwer, the Apoſtles were <hi>Poor,</hi> yet very
+<hi>honourable.</hi> But by your own objection, you tacitely confeſs, that
+'tis not your <hi>Vertue</hi> or <hi>Worth,</hi> but your <hi>Riches</hi> that renders you <hi>honourable;</hi> and then the reſpect and honour you have, is not given to <hi>you,</hi> but to your <hi>money.</hi> When an <hi>Aſs</hi> went through the City with a golden <hi>Image</hi> on his back, the ſuperſtitious People fell on their knees and worſhip'd: The ſilly
+<hi>Aſs</hi> thought they had worſhip'd him, whereas they worſhip'd
+<hi>only</hi> the golden <hi>Image</hi> on his back. Juſt ſo the common People do honour, and worſhip Rich Church men for the ſake of their
+<hi>God,</hi> their Mammon, their <hi>Silver</hi> and <hi>golden Images.</hi>
+            </p>
+            <p>
+               <hi>Conſciſum Argentum in titulos facieſa minutas.</hi> Juvenal.</p>
+            <p n="2">2ly. they object, That the Apoſtles where
+<hi>Rich-men;</hi> Had they not more then any of our Church-men? For did not many men ſell their whoſe <hi>Eſtates,</hi> and bring the price thereof, and <hi>laid it at the Apoſtles feet.</hi> Acts. 4. v. 37. Very true.</p>
+            <pb n="14" facs="tcp:37220:10"/>
+            <p>But the Apoſtles were not much the <hi>Richer</hi> for it: For they were not ſo good <hi>Husbands</hi> as to <hi>Pocket</hi> it up, (as our Prieſts, <hi>&amp;c.</hi> do) but <hi>diſtribution</hi> was made for the relief and neceſſity of the Poor Chriſtians, according as they had need.
+<hi>v.</hi> 35. Let them look to it, that appropriate to themſelves the Revenews of the Church, which were given by Religious <hi>Papiſts,</hi> and put into the hands of Church<g ref="char:EOLhyphen"/>men, not that they ſhould, like <hi>Judas,</hi> convert it to their own <hi>Private uſe,</hi> but imploy it to the
+<hi>relief</hi> of the Poor.</p>
+            <p n="3">3ly. They object, that they have not received their ta<g ref="char:EOLhyphen"/>lent
+<hi>Freely,</hi> (as the Apoſtles did) but that they gave <hi>mo<g ref="char:EOLhyphen"/>ney</hi> for their <hi>Learning,</hi> for their <hi>Degrees,</hi> for their <hi>Orders, Li<g ref="char:EOLhyphen"/>cences, Inſtitution, Induction,</hi> and (I believe they may tru<g ref="char:EOLhyphen"/>ly ſay) for their <hi>Preſentation</hi> too. And how do we re<g ref="char:EOLhyphen"/>ceive <hi>Freely</hi> then.</p>
+            <p>I anſwer, They are very ungrateful to God, who deny him to be the Author and giver of every good thing we <hi>lawfully</hi> enjoy. He gave us all things <hi>Freely,</hi> and we are ungratefull if we do not <hi>Freely</hi> give to him, what he has ſo <hi>Freely</hi> given us.</p>
+            <p>If they get into the Church by <hi>Bribery, Simony, Perjury,</hi> or any other <hi>unlawful</hi> way, they may not thank <hi>God,</hi> but the
+<hi>Devil</hi> for it; and he will upbraid them with it afterwards to their
+<hi>ſhame,</hi> that <hi>he</hi> made them <hi>Rich.</hi>
+            </p>
+            <p n="4">4ly. They object, that <hi>they</hi> that <hi>ſerve</hi> at the Altar, ſhould <hi>live</hi> by the Altar: And Bp. <hi>Sanderſon</hi> ſaith, that ſince God himſelf has ordained Wages to him that labours in his work, he may not only <hi>expect</hi> it, but even <hi>exact</hi> it too, from thoſe that would <hi>unconſcionably defraud</hi> him thereof.</p>
+            <p>I anſwer, They that <hi>ſerve</hi> at the Altar ſhould
+<hi>live</hi> by the Altar; But can they not <hi>live</hi> without 5 or 6 hundred, or a 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or 4 or 5 Thouſand pounds a Year? If they expect, or exact <hi>more,</hi> than what is enough to keep them and their <pb n="15" facs="tcp:37220:10"/>Families <hi>alive,</hi> they expect and exact more than God has<g ref="char:EOLhyphen"/>allowed the very Apoſtles themſelves. But to return your objection on your own heads, if they that ſerve at the Altar, ſhould
+<hi>live</hi> by the Altar, why are you ſo unreſona<g ref="char:EOLhyphen"/>ble, as to deny your Journey-men, that ſerve for you at the Altar, to live by it, but are many of them forced to get their livings by teaching School, or ſome other way.</p>
+            <p>I allow then, that if unconſcionable men will deny you your
+<hi>Meat</hi> and <hi>Cloathing,</hi> you may exact it of them, (pro<g ref="char:EOLhyphen"/>vided you
+<hi>Labour</hi> in the Work) But I think it were better (by Bp.
+<hi>Sanderſons</hi> leave) not to goe to <hi>Law</hi> with ungrate<g ref="char:EOLhyphen"/>ful People for a little Victualls and Drink, but rather (as Chriſt commanded the Apoſtles) to ſhake of the duſt <hi>from</hi> your <hi>Feet,</hi> as a
+<hi>witneſs</hi> againſt <hi>them,</hi> and ſo leave them.</p>
+            <p>By all that has been ſaid, I hope it appears plainly, that it is the <hi>Duty</hi> of Chriſt's Miniſters, (notwithſtanding God has allowed them <hi>Food, &amp;c.</hi>) to execute their Office <hi>Freely,</hi> without reſpect to <hi>that,</hi> or any <hi>other reward;</hi> when we have done thus, we muſt yet confeſs we are unprofitable Servants, we have done but what was our <hi>duty</hi> to do, and <hi>woe</hi> be to us (as St.
+<hi>Paul</hi> ſaid of himſelfe) if we Preach not the Goſpel, and that
+<hi>Freely</hi> too. Were this leſſon well learned of us, there would be no ſtriving after <hi>Pluralities</hi> and <hi>dig<g ref="char:EOLhyphen"/>nities,</hi> no
+<hi>Bribery</hi> nor <hi>Simony</hi> nor <hi>Perjury</hi> in the Church, but that a <hi>righteous,</hi> and <hi>gratious,</hi> and <hi>learned</hi> Perſon that is <hi>Poor,</hi> might as ſoon be advanced to a Biſhoprick, as an
+<hi>ignorant, covetous, ungratious</hi> Perſon that is <hi>Rich.</hi> They that ſeek for Rectories, Vicaridges, Biſhopricks for the ſake of
+<hi>gain,</hi> are no better than thoſe that followed Chriſt for the ſake of the <hi>Loaves:</hi> And are no better ahen the <hi>Heathens:</hi> (for af<g ref="char:EOLhyphen"/>ter all theſe things do the <hi>Heathens</hi> ſeek.)</p>
+            <p>When Chriſtianity began to Flouriſh, and Kings and Emperours to embrace the Chriſtian Faith; and out of their zeal for Religion, made Laws for the ſupport of <pb n="16" facs="tcp:37220:11"/>Church-men, and admitted none into Offices but Chriſti<g ref="char:EOLhyphen"/>ans; many wicked Perſons profeſſed themſelves Chriſti<g ref="char:EOLhyphen"/>ans, meerly to get Offices and Preferment; juſt as our Sea and Land Captains and Officers, who living in a conſtant and habitual Practice of Curſing, Swearing, Blaſpheming, &amp;c. do yet take the Communion to qua<g ref="char:EOLhyphen"/>lifie them for the King's Service. So ungodly Men ſcrew themſelves into the Miniſtry for the ſake of Gain: <hi>
+                  <g ref="char:V">Ʋ</g>ngodly</hi> men I ſay, for no
+<hi>godly</hi> man deſires the Office of a Biſhop or Prieſt, for the ſake of filthy Lucre. I am ſorry that the <hi>Liberal Arts</hi> ſhould become <hi>ſervile,</hi> and <hi>Divinity</hi> it ſelf made a
+<hi>Slave</hi> to <hi>Mammon.</hi> I am ſorry that the pretended
+<hi>Diſciples</hi> of Chriſt, ſhould ſtrive to be ſo very much Richer than their <hi>Maſter;</hi> and they that are not ſo good Teachers as the Apoſtles, ſhould yet deſire to be ſo very much <hi>above</hi> them. I am ſor<g ref="char:EOLhyphen"/>ry that Covetouſneſs has crept into the Hearts of Church<g ref="char:EOLhyphen"/>men:
+'Twas the Covetouſneſs of the Clergy brought in thoſe abominable
+<hi>Errors</hi> into the Church of Rome; as <hi>Purgatory, Praying</hi> for the dead, <hi>Indulgences, Pardons,</hi> and <hi>Interceſſion</hi> to Saints, by which means they gull'd and fool'd the ignorant deluded vulgar, and got much of their Lands from them to the Church: Yet theſe Popiſh Biſhops and Kings, did great works of Charity, with what they by their cunning Devices got from the People: They Built and endow'd abundance of Colledges and Schools, Hoſpitals and Churches. But the Prote<g ref="char:EOLhyphen"/>ſtants, that have theſe things at preſent in their Poſſeſſi<g ref="char:EOLhyphen"/>on, do make a worſe uſe than thoſe Papiſts did; for theſe employ the ſame to the ſupport of their own Pride and Luxury.</p>
+            <p>'Tis Covetouſneſs makes the Roman party ſtrive to bring in Popery again, that ſo they may recover their ill gotten Lands. 'Tis Covetouſneſs in the adverſe Party <pb n="17" facs="tcp:37220:11"/>that makes them prick up their Ears, with hopes one time or another to get uppermoſt; that they may en<g ref="char:EOLhyphen"/>joy the Riches of the Church: All quarreling betwixt theſe
+<hi>Parties</hi> about <hi>Religion,</hi> is but like that of <hi>Rivals,</hi> contending for a <hi>Rich</hi> Lady, take away her <hi>Dowry</hi> and her Covetous <hi>Rivals</hi> will ſoon quit their perſuit. <hi>Ve<g ref="char:EOLhyphen"/>niunt a dote ſagittae.</hi> None will follow her for her Beau<g ref="char:EOLhyphen"/>ty or Virtue. Juſt ſo let the Church be made <hi>Poor,</hi> and diſrobed of her gorgeous Ornaments, and then you ſhall ſee, theſe falſe Lovers will ſoon forſake her. He is the <hi>true</hi> Lover only that Preaches freely, and loves Religion, not for her <hi>Riches,</hi> but for her <hi>Beauty</hi> of
+<hi>Ho<g ref="char:EOLhyphen"/>lineſs.</hi> Great is <hi>Diana</hi> of the Epheſians! Thus they cryed out, not for <hi>love</hi> of the <hi>Goddeſſe,</hi> but for fear if her Worſhip ceaſed their <hi>Gain</hi> and <hi>Proffit</hi> would ceaſe together; 'Twas for the ſake of <hi>Gain</hi> that they ſerv<g ref="char:EOLhyphen"/>ed a
+<hi>falſe Goddeſſe:</hi> 'Tis for the ſake of gain that Co<g ref="char:EOLhyphen"/>vetous men ſerve the <hi>true God,</hi> as the Devil falſely up<g ref="char:EOLhyphen"/>braided <hi>Job.</hi> A true Church-man, (and every true Chriſtian) muſt look higher than the things below, and be content to <hi>ſuffer</hi> for Chriſts ſake, propoſing to himſelf <hi>Afflictions, Reproaches, Poverty,</hi> yea and
+<hi>Death</hi> it ſelf, if the honour of God and the defence of his Truth require it. For the true Paſtor, as he ought not, ſo neither can he reaſonably expect to grow rich in this World; becauſe his buſineſs is to rebuke Sin, and not to <hi>pleaſe</hi> men by flattery or connivance. Now
+'tis not reaſonable to think that ſuch a Reformer ſhould have much favour from the World. No, they that tell Truth, ſhall be fed with the bread of
+<hi>Affliction</hi> and the water of <hi>Affliction,</hi> whilſt the
+<hi>falſe</hi> Prophets ſhall be fed at <hi>Jezebels</hi> Table. The World loves the <hi>Hireling</hi> beſt, becauſe the <hi>Hireling</hi> always Preaches <hi>pleaſing</hi> things, otherwiſe they know they ſhall forfeit their <hi>Hire.</hi> Thus <pb n="18" facs="tcp:37220:12"/>they have their great Livings, not for declaring the whole Truth, but for holding their Tongues, juſt as a falſe Witneſs is ſuborn'd or hir'd to be ſilent when he ſhould ſpeak the Truth. The Devil ſometimes gives Church-men great Livings to ſtop their Mouths, that they may not Preach againſt <hi>Popery</hi> or
+<hi>Rebellion,</hi> or a<g ref="char:EOLhyphen"/>ny work of Darkneſs, that Satan the Prince of Dark<g ref="char:EOLhyphen"/>neſs is about. Juſt as the Thief in the Fable, offered the Dog a piece of bread to bribe him to forbear Bark<g ref="char:EOLhyphen"/>ing. A <hi>true</hi> Witneſs will ſpeak the <hi>Truth</hi> without be<g ref="char:EOLhyphen"/>ing <hi>Hired</hi> to do it, but a falſe Witneſs muſt be ſub<g ref="char:EOLhyphen"/>born'd and <hi>Hired,</hi> and theſe
+<hi>Hirelings</hi> are the only Fa<g ref="char:EOLhyphen"/>vourites of the World: The people love the
+<hi>Hirelings,</hi> becauſe they flatter them, but hate the true Paſtors be<g ref="char:EOLhyphen"/>cauſe they boldly tell the unpleaſing Truth: According as the Prophet
+<hi>Jeremiah</hi> has ſaid, <hi>cap.</hi> 5.30.31. <hi>A won<g ref="char:EOLhyphen"/>derful and horrible thing is committed in the land. The prophets propheſie falſely,</hi> &amp;c. <hi>and my people love to have it ſo:</hi> &amp;c. The <hi>Hireling</hi> ſells his Sermons at as dear a rate as he can; and we ſay in the Proverb, <hi>Magis illa juvant, quae pluris emuntur.</hi> Things
+<hi>dear</hi> bought, are good for <hi>Ladies;</hi> thoſe <hi>delicate</hi> people that cannot endure the ſeverity of Gods Truth, are beſt pleaſed with thoſe tem<g ref="char:EOLhyphen"/>porizing fawning Chaplains, that ſow Pillows, and daub with untempered Mortar. A <hi>Hireling</hi> by <hi>corrupting</hi> the Word of God gets Preferment, but a true Paſtor like <hi>John</hi> the <hi>Baptiſt,</hi> ſometimes loſes his <hi>Life</hi> for tel<g ref="char:EOLhyphen"/>ling the Truth.</p>
+            <p>If Chriſt whipt out of the <hi>Temple,</hi> ſuch as
+<hi>Bought</hi> and <hi>Sold</hi> there, What ſhall become of them that Buy and ſell the very <hi>Temples</hi> themſelves? What ſhall be<g ref="char:EOLhyphen"/>come of them that Sell their very <hi>Sermons</hi> and <hi>Pray<g ref="char:EOLhyphen"/>ers,</hi> &amp;c. What ſhall become of them that turn the <hi>ho<g ref="char:EOLhyphen"/>ly Calling</hi> into a
+<hi>mercenary</hi> Trade for Gain?</p>
+            <pb n="19" facs="tcp:37220:12"/>
+            <p>I for my part am no <hi>Hireling,</hi> but a Member of that pure and unſpotted Church, all whoſe Sons reſemble their heavenly Father, in giving <hi>Freely</hi> what he has freely given them. For as God has freely given to us life and being, and all things, yea and his own Son
+<hi>Freely,</hi> ſo does every one of his Children, freely impart and communicate to each other. 'Tis not the <hi>Prayers,</hi> nor
+<hi>Ceremonies,</hi> nor <hi>Articles,</hi> nor <hi>Homilies</hi> I Object a<g ref="char:EOLhyphen"/>gainſt, but the <hi>Pride</hi> and <hi>Covetouſneſs</hi> of the preſent Church.</p>
+            <p>And therefore that Church, wherein <hi>Preaching</hi> is made a
+<hi>Trade</hi> for gain, that Church wherein <hi>Dignities</hi> are beſtowed by <hi>Partiality,</hi> that Church wherein there is no reſpect to
+<hi>Learning:</hi> That Church which forbids Ma<g ref="char:EOLhyphen"/>riage, that Church which
+<hi>Beats</hi> and <hi>Baniſhes</hi> her <hi>Paſtors</hi> for Preaching the ſame ſound Doctrine ſhe pretends to maintain, that Church wherein
+<hi>Buying</hi> and <hi>Selling</hi> of Parſonages, &amp;c. are conſtantly practiced, that Church that takes no Care of her own, namely thoſe of her own
+<hi>Houſhold.</hi> I do <hi>renounce,</hi> with all the <hi>covetous</hi> De<g ref="char:EOLhyphen"/>ſires thereof, as being fully perſwaded, that the nearer to this
+<hi>Church,</hi> the farther from <hi>God.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <div xml:lang="lat" type="version">
+               <lg>
+                  <head>Ad Concionatores Mercenarios.</head>
+                  <l>
+                     <hi>Preſbyter</hi> Argento conductus <hi>Roſtra fatigat:</hi>
+                  </l>
+                  <l>Praemia <hi>ſi tollas, Preſbyter ille</hi> ſilet.</l>
+                  <l>
+                     <hi>Illum facundum</hi> fulvi ſpes <hi>reddidit</hi> Auri:</l>
+                  <l>
+                     <hi>Hac dempiâ taciti Piſcis ad inſtar erit.</hi>
+                  </l>
+                  <l>Hiſtrio, Tibicen, Cantores Cauſidici<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </l>
+                  <l>
+                     <hi>Hi vocem vendunt,</hi> Presbyteriq, <hi>pij.</hi>
+                  </l>
+                  <l>
+                     <hi>Unicus eſt</hi> Vates <hi>contemptus ridiculuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi>
+                  </l>
+                  <l>Officium <hi>tantum,</hi> Praemia <hi>nulla petit.</hi>
+                  </l>
+                  <l>Sol <hi>non conductus praebet ſua lumina Mundo:</hi>
+                  </l>
+                  <l>
+                     <hi>Et non</hi> conductus <hi>munere fungor Ego.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div xml:lang="eng" type="version">
+               <lg>
+                  <head>To the Mercenary Preachers. In <hi>Engliſh</hi> thus,</head>
+                  <l>By bribes of Silver Prieſt is <hi>Hir'd</hi> to Preach:</l>
+                  <l>Take away thoſe, and ho'll no longer Teach.</l>
+                  <pb n="20" facs="tcp:37220:13"/>
+                  <l>Alaſs! 'tis <hi>Money</hi> makes him Eloquent:</l>
+                  <l>His Voice is gone when <hi>golden Hopes</hi> are ſpent.</l>
+                  <l>
+                     <hi>Actors</hi> and <hi>Fidlers, Songſters Pleaders</hi> do</l>
+                  <l>Their Voices ſell, and ſo do <hi>Preachers</hi> too</l>
+                  <l>One <hi>Prophet</hi> vile, and ſcorn'd, yet has regard</l>
+                  <l>To th'<hi>Office</hi> only, not to the <hi>Reward.</hi>
+                  </l>
+                  <l>The Suns bright Flames to Mortals <hi>Freely</hi> Shine:</l>
+                  <l>And whilſt I Preach for <hi>nothing,</hi> ſo do mine.</l>
+               </lg>
+               <q>
+                  <p>— Loripedem Rectus derideat, Aethiopem albus.</p>
+                  <bibl>
+                     <hi>Juvenal.</hi>
+                  </bibl>
+               </q>
+            </div>
+         </div>
+         <div type="list_of_preaching_venues">
+            <head>The names of ſome of thoſe Places where <hi>Jos. Perkins,</hi> has Preach<g ref="char:EOLhyphen"/>ed <hi>Freely.</hi>
+            </head>
+            <list>
+               <item>Weſtminſter Abbey 1</item>
+               <item>Lincolns Inn 2</item>
+               <item>Trinity Chappel 1</item>
+               <item>Oxenden Chappel 2</item>
+               <item>Knights bridge about 20</item>
+               <item>St. Foſters 1</item>
+               <item>St. Catherine Colemans 2</item>
+               <item>Wappin Chappel 1</item>
+               <item>Marabon 4</item>
+               <item>Hogidon Hoſpital 1</item>
+               <item>White Chappel 1</item>
+            </list>
+            <list>
+               <head>In Middleſex.</head>
+               <item>Teddington 1</item>
+               <item>Brentford 2</item>
+               <item>Fulham 1</item>
+               <item>Chelſea 6</item>
+            </list>
+            <list>
+               <head>In Surrey.</head>
+               <item>Kingſton upon Thames 2</item>
+               <item>Peterſon 1</item>
+               <item>Batterſea 8</item>
+               <item>Tootin 6</item>
+               <item>Epſom 20</item>
+               <item>Ewill 20</item>
+               <item>Aſtead 3</item>
+               <item>Clannon 1</item>
+               <item>Oakwood-Chappel 9</item>
+            </list>
+            <list>
+               <head>In Kent.</head>
+               <item>Deptford 1</item>
+               <item>Woolwich where I was Baniſhed. 20</item>
+               <item>Eltham 1</item>
+            </list>
+            <list>
+               <head>Hampſhire.</head>
+               <item>Wincheſter 1</item>
+               <item>Portſmouth 1</item>
+               <item>Kingſton 1</item>
+               <item>Southhampton 5</item>
+               <item>Pear-tree 4</item>
+               <item>Abbots Ann 9</item>
+               <item>Amport 2</item>
+            </list>
+            <list>
+               <head>Wiltſhire.</head>
+               <item>Weſt-grimſtead</item>
+            </list>
+            <list>
+               <head>Eſſex.</head>
+               <item>Merſea Iſland.</item>
+            </list>
+            <list>
+               <head>Oxfordſhire.</head>
+               <item>Coggs and other adja<g ref="char:EOLhyphen"/>cent Places 3</item>
+               <item>Binſey 1</item>
+               <item>Hinckſea 1</item>
+               <item>St. Bartholomews Hoſ<g ref="char:EOLhyphen"/>pital 7</item>
+            </list>
+            <list>
+               <head>Glouceſterſhire.</head>
+               <item>Wickwarr, where I was Beaten for my Pains 14</item>
+               <item>Adderſley 2</item>
+               <item>Newington 2</item>
+               <item>A Chappell near New<g ref="char:EOLhyphen"/>ington 1</item>
+               <item>Bath Abbey 1</item>
+               <item>Bath Abbey 1 <hi>June</hi> 27</item>
+            </list>
+            <p>About 7 or 8 hundred times in all, and yet I am not weary of well doing.</p>
+            <epigraph>
+               <q>— Ingratium dieas, omnia dixeris.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="note_on_the_author">
+            <p>The Author of this Book, wears a white Scarfe and Girdle; as the Badge of his Profeſſion, and to diſtinguiſh him from all
+<hi>Hirelings.</hi>
+            </p>
+            <pb facs="tcp:37220:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
